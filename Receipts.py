@@ -10,7 +10,6 @@ Stylish Settee. Faux leather on birch. 29.50 inches high x 54.75 inches wide x 2
 """
 stylish_settee_price = 180.50
 
-
 luxurious_lamp_description = """
 Luxurious Lamp. Glass and iron. 36 inches tall. Brown with cream shade.
 """
