@@ -32,3 +32,4 @@ print(cuts_under_30)
 
 test = [hairstyles[i] for i in hairstyles[0:4]]
 print(test)
+
